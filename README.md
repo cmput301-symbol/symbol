@@ -2,4 +2,4 @@
 
 # CCID 
 
-# nttalam
+# ntalam
