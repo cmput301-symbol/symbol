@@ -1,5 +1,1 @@
 # symbol
-
-# CCID 
-
-# ntalam
